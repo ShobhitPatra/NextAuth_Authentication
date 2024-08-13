@@ -2,5 +2,5 @@ import Appbar from "@/components/Appbar";
 import Image from "next/image";
 
 export default function Home() {
-  return <Appbar />;
+  return <div>Home</div>;
 }
